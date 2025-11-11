@@ -22,4 +22,4 @@
 
 ### 🚌 Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwongman&layout=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwongman&layout=pie)
