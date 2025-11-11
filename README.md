@@ -6,3 +6,6 @@
 ![hit](https://hits.sh/github.com/uwongman.svg?view=today-total&style=flat-square&color=e05d44)
 
 ![uwongman's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwongman&show_icons=true&theme=transparent)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={uwongman23})](https://solved.ac/{uwongman23})
